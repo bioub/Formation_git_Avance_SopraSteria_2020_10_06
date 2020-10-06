@@ -7,3 +7,9 @@ Liens vus pendant la formation
 - [https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting]()
 - [https://help.github.com/en/articles/associating-text-editors-with-git]()
 - [https://github.com/dictcp/awesome-git#hook-management]()
+
+## Commandes de bases
+
+- git init
+- git add
+- git commit
