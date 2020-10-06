@@ -18,6 +18,7 @@ Liens vus pendant la formation
 
 ## Workflow principaux
 
-* Basic Workflow
-* Git flow
-* Github flow
+- Basic Workflow
+- Git flow
+- Github flow
+- Gitlab flow
