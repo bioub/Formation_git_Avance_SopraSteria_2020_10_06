@@ -4,11 +4,13 @@
     "@commitlint/config-conventional": "^11.0.0",
     "commitizen": "^4.2.1",
     "cz-conventional-changelog": "^3.3.0",
-    "husky": "^4.3.0"
+    "husky": "^4.3.0",
+    "prettier": "^2.1.2"
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "prettier **/*.{js,json,md} --write"
     }
   },
   "config": {
