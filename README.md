@@ -13,3 +13,5 @@ Liens vus pendant la formation
 - git init
 - git add
 - git commit
+- git status
+- git log
