@@ -15,3 +15,9 @@ Liens vus pendant la formation
 - git commit
 - git status
 - git log
+
+## Workflow principaux
+
+* Basic Workflow
+* Git flow
+* Github flow
